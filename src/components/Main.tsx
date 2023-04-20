@@ -10,7 +10,7 @@ export const Main = () => {
 
         <img
           className="rounded-full w-32 h-32 object-cover"
-          src="https://github.com/artismyname.png"
+          src="https://github.com/alexandremerched.png"
         />
       </div>
 
