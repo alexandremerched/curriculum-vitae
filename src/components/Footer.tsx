@@ -13,7 +13,7 @@ export const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="https://github.com/artismyname" className="flex items-center w-fit gap-1" target="_blank">
+          <a href="https://github.com/alexandremerched" className="flex items-center w-fit gap-1" target="_blank">
             <GithubLogo size={16} color='white' />
             <span>GitHub</span>
           </a>
